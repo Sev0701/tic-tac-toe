@@ -1,0 +1,15 @@
+section {
+    text-align: center;
+}
+
+.game-container {
+    margin-top: 30px;
+    display: flex;
+
+}
+
+.line {
+    width: 70px;
+    height: 70px;
+    border: solid 1px black;
+}
